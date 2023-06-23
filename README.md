@@ -50,7 +50,7 @@
    [Jenkins Prometheus]: <https://plugins.jenkins.io/prometheus/>
    [Grafana Dashboard]: <https://grafana.com/grafana/dashboards/9964-jenkins-performance-and-health-overview/>
    [Prepare Jenkins]: <https://docs.cloudbees.com/docs/cloudbees-ci-kb/latest/best-practices/prepare-jenkins-for-support>
-   [JVM Troubleshooting]: <hhttps://docs.cloudbees.com/docs/admin-resources/latest/jvm-troubleshooting/>
+   [JVM Troubleshooting]: <https://docs.cloudbees.com/docs/admin-resources/latest/jvm-troubleshooting/>
    [GC Running]: <https://www.jenkins.io/blog/2016/11/21/gc-tuning/>
    [Saw-tooth pattern]: <https://dzone.com/articles/interesting-garbage-collection-patterns>
    [Audit Trail]: <https://plugins.jenkins.io/audit-trail/>
